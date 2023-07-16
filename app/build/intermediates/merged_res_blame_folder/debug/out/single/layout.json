@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.abdul.mealsearch.app-mergeDebugResources-50:/layout/view_holder_search_list.xml",
+        "source": "com.abdul.mealsearch.app-main-53:/layout/view_holder_search_list.xml"
+    },
+    {
+        "merged": "com.abdul.mealsearch.app-mergeDebugResources-50:/layout/fragment_meal_search.xml",
+        "source": "com.abdul.mealsearch.app-main-53:/layout/fragment_meal_search.xml"
+    },
+    {
+        "merged": "com.abdul.mealsearch.app-mergeDebugResources-50:/layout/fragment_meal_details.xml",
+        "source": "com.abdul.mealsearch.app-main-53:/layout/fragment_meal_details.xml"
+    }
+]
